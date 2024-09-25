@@ -1,0 +1,84 @@
+Name ,job_title,years_of_experience,salary
+ John Smith, Manager,10,80000
+ Mary Johnson, Developer,3,50000
+ Robert Lee, Developer,5,55000
+ Emily Chen, Designer,2,45000
+ David Kim, Developer,4,60000
+ Amy Liu, Designer,1,40000
+ Tom Nguyen, Developer,6,65000
+ Jessica Chen, Manager,8,90000
+ Brian Lee, Developer,2,45000
+ Kelly Wong, Designer,3,50000
+ Eric Chen, Developer,5,55000
+ Linda Kim, Designer,1,40000
+ Tom Lee, Developer,4,60000
+ Alice Wong, Designer,2,45000
+ Timothy Chen, Developer,3,50000
+ Grace Kim, Designer,1,40000
+ Michael Lee, Developer,5,55000
+ Sophie Chen, Manager,12,120000
+ Jenny Wong, Developer,2,45000
+ James Chen, Designer,3,50000
+ Daniel Kim, Developer,4,60000
+ Betty Lee, Designer,1,40000
+ Andrew Chen, Developer,5,55000
+ Kelly Kim, Designer,2,45000
+ Tim Lee, Developer,3,50000
+ Nancy Chen, Designer,1,40000
+ Eddie Lee, Developer,4,60000
+ Wendy Wong, Designer,2,45000
+ Paul Chen, Developer,5,55000
+ Angela Kim, Manager,9,95000
+ Tommy Lee, Developer,2,45000
+ Lily Wong, Designer,3,50000
+ George Chen, Developer,5,55000
+ Cathy Kim, Designer,1,40000
+ Victor Lee, Developer,4,60000
+ Irene Chen, Designer,3,55000
+Smith Alice, Developer,13,55000
+Johnson Amy, Designer,11,55000
+Lee Andrew, Developer,6,55000
+Chen Angela, Manager,8,55000
+Kim Betty, Developer,6,55000
+Liu Brian, Designer,5,50000
+Nguyen Cathy, Developer,7,55000
+Chen Daniel, Designer,9,45000
+Lee David, Developer,1,60000
+Wong Eddie, Designer,7,40000
+Chen Emily, Designer,7,65000
+Kim Eric, Developer,6,90000
+Lee George, Designer,4,45000
+Wong Grace, Developer,11,50000
+Chen Irene, Manager,13,55000
+Kim James, Developer,11,40000
+Lee Jenny, Designer,3,60000
+Chen Jessica, Developer,12,45000
+Wong John, Designer,5,50000
+Chen Kelly, Developer,7,40000
+Kim Kelly, Designer,9,55000
+Lee Lily, Developer,7,45000
+Chen Linda, Designer,13,55000
+Kim Mary, Developer,13,95000
+Lee Michael, Designer,1,45000
+Chen Nancy, Developer,13,50000
+Lee Paul, Designer,10,55000
+Wong Robert, Designer,3,40000
+Chen Sophie, Developer,8,55000
+Kim Tim, Designer,13,40000
+Lee Timothy, Designer,6,60000
+Wong Tom, Designer,4,45000
+Chen Tom, Designer,4,50000
+Kim Tommy, Designer,5,40000
+Lee Victor, Developer,3,55000
+Chen Wendy, Designer,1,40000
+Lee Robert, Developer,6,60000
+Wong Paul, Designer,8,45000
+Chen Nancy, Designer,5,50000
+Kim Michael, Developer,6,40000
+Lee Mary, Designer,3,65000
+Wong Linda, Developer,8,55000
+Chen Lily, Designer,11,40000
+Kim Kelly, Developer,8,60000
+Lee Kelly, Designer,2,45000
+Chen John, Developer,14,50000
+Wong Jessica, Designer,6,40000
